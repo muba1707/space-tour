@@ -11,10 +11,17 @@
   "dependencies": {
     "next": "12.1.4",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "react-hook-form": "^7.29.0"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.4",
     "eslint": "8.12.0",
-    "eslint-config-next": "12.1.4"
-  }
+    "eslint-config-next": "12.1.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.23"
+  },
+  "main": "index.js",
+  "author": "muba1707 <batcha.1707@gmail.com>",
+  "license": "MIT"
 }
